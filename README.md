@@ -1,1 +1,1 @@
-This is sample for readme
+Set of Sample Projects for Apache JMeter
